@@ -9,4 +9,4 @@
 text = input("Введіть рядок: ")
 result = count_digits(text)
 
-print("Кількість цифр у рядку:", result)
+print("Кількість цифр у рядку:", result) 
