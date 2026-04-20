@@ -1,7 +1,5 @@
 ﻿import numpy as np
 import matplotlib.pyplot as plt
-import warnings
-warnings.filterwarnings('ignore')
 
 # --- Гілка 1: x < 3 ---
 x1_raw = np.linspace(-180, 2.99, 5000)
